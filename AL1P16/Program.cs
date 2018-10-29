@@ -35,6 +35,9 @@ namespace AL1P16
     }
     class Square:IShape
     {
+        /// <summary>
+        ///  bla bla bla 
+        /// </summary>
         private int side;
         public Square()
         {
